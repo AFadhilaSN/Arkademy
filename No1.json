@@ -1,0 +1,10 @@
+{
+    "name": "Arif Fadhila Sastra Negara",
+    "age": 17,
+    "address": "Perum Griya Limus Asri Blok B10 No 06 RT 04 RW 12 Kel Pasir Angin Kec Cileungsi Kab Bogor Jawa Barat",
+    "hobbies": ["Basket","Running"],
+    "is_married": false,
+    "list_school": ["SMK Negeri 2 Kota Bekasi","2016","2019", null],
+    "skills": ["Front End","beginner","Back End","beginner"],
+    "interest_in_coding": true
+}
