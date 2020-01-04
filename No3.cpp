@@ -9,6 +9,6 @@ int main() {
   if (!cin || cin.gcount() != 1)
     cout << "Not a numeric value.";
   else
-    cout << "Your entered number: " << number;
+    cout << "Your entered number: " <<number;
   return 0;
 }
